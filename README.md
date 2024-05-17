@@ -1,4 +1,3 @@
-
 # Data Engineering Resources
 
 This repository is a collection of resources related to data engineering that I find valuable and worth sharing. It includes links to articles, books, case studies, communities, courses, daily reads, databases, diagrams, practical projects, tools, interview questions, and learning paths.
@@ -53,4 +52,6 @@ This repository is a collection of resources related to data engineering that I 
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
+
+>>>>>>> e15f099b14dfa7e93c43c38676fe3000f4b2bf4e
 #data-engineering
