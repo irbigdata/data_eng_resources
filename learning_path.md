@@ -1,6 +1,7 @@
 #### Roadmaps
 
 - https://github.com/datastacktv/data-engineer-roadmap
+- https://awesomedataengineering.com/
 
 
 
